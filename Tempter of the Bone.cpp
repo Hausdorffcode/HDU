@@ -1,6 +1,7 @@
 //http://acm.hdu.edu.cn/showproblem.php?pid=1010
 //dfs
 //奇偶剪枝
+//此题测试数据空格有问题，建议用cin
 #include <algorithm>
 #include <iostream>
 #include <cstdio>
